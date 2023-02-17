@@ -1,17 +1,34 @@
 #include <stdio.h>
+#include <ctype.h>
 /**
- * main - Entry point
+ * main - prints the lower case of the alphabet
  *
- * Return: Always 0 (Success)
+ * Return: 0, if succesful
  */
 int main(void)
 {
+	char lc;
 
-	char c;
-
-	for (c = 'a'; c <= 'z'; c++)
-		putchar(c);
-		putchar('\n');
-
-return (0);
+	for (lc = 'a' ; lc <= 'z' ; lc++)
+	{
+		putchar(lc);
+	}
+	putchar('\n');
+	return (0);
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
