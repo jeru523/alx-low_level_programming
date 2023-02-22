@@ -1,10 +1,10 @@
-i#include "main.h"
-/**
+#include "main.h"
+/*
  * main - prints _putchar
  *
  * Return: Always 0 in success
  */
-int main(void)
+int main(void);
 {
 	_putchar(95); /*95 is asci for _*/
 	_putchar('p');
