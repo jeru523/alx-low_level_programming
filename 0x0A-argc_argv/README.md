@@ -1,0 +1,1 @@
+The task contains writing a program that prints its name, writing a program that prints the number of arguments passed into it, writing a program that prints all the arguments it receives, writing a program multiplies two numbersand writing a program that adds positive numbers.
