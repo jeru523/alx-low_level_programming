@@ -4,7 +4,10 @@
 #include <ctype.h>
 #include <string.h>
 
-int _putchar(char c)
+int _isdigit(int c)
 {
-	return putchar(c);
+	if (c >= '0' && c <= '9')
+		return (1);
+	else
+		return (0);
 }
