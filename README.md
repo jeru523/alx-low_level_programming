@@ -1,1 +1,1 @@
-This is C static libraries.
+It has tasks that will write a function that creates an array of chars, and initializes it with a specific char,write a function that returns a pointer to a newly allocated space in memory, which contains a copy of the string given as a parameter, write a function that concatenates two strings, write a program that returns a pointer to 2 dimensional array of inegers and awrite a function that frees a 2 dimensional grid previously created by your alloc grid function. 
