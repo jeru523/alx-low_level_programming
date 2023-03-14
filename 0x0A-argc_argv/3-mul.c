@@ -12,7 +12,7 @@
  */
 int main(int argc, char *argv[])
 {
-	int num1, mun2, prod;
+	int num1, num2, prod;
 
 	if (argc != 3)
 	{
